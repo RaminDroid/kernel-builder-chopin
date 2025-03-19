@@ -2,7 +2,7 @@
   {
     "kernelSource": {
       "name": "EurekaKernel",
-      "repo": "https://github.com/AOSP-13-Mediatek/kernel_xiaomi_chopin",
+      "repo": "https://github.com/eurekadevelopment/Eureka-Kernel",
       "branch": "r",
       "device": "A305",
       "defconfig": "exynos7885-a30_defconfig"
